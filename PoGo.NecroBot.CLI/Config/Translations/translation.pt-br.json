@@ -79,6 +79,42 @@
     {
       "Key": "candies",
       "Value": "(Doces: {5})"
+    },
+    {
+      "Key": "displayHighestsHeader",
+      "Value": "Pokemons"
+    },
+    {
+      "Key": "commonWordPerfect",
+      "Value": "Perfeito"
+    },
+    {
+      "Key": "commonWordName",
+      "Value": "Nome"
+    },
+    {
+      "Key": "displayHighestsCpHeader",
+      "Value": "Pokemons com maior CP"
+    },
+    {
+      "Key": "displayHighestsPerfectHeader",
+      "Value": "Pokemons mais perfeito"
+    },
+    {
+      "Key": "displayHighestsLevelHeader",
+      "Value": "Pokemons com maior nível"
+    },
+    {
+      "Key": "welcomeWarning",
+      "Value": "Assegure-se de que a Latitude e Longitude estão corretas. O programa esta configurado assim! Lat {0} Lng: {1}"
+    },
+    {
+      "Key": "incubatorPuttingEgg",
+      "Value": "Adicionado o Ovo da Sorte na incubradora: {0:0.00}km restantes"
+    },
+    {
+      "Key": "incubatorStatusUpdate",
+      "Value": "Atualizando o status da incubadora: {0:0.00}km restantes"
     }
   ]
 }
